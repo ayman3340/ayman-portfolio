@@ -79,7 +79,7 @@ function Hero() {
             className="h-auto w-full rounded-lg shadow-lg object-cover"
             aria-label="Ayman's introductory video"
           >
-            <source src="/hero.mp4" type="video/mp4" />
+            <source src="hero.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
