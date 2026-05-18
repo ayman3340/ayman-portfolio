@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { useInView } from "framer-motion";
+import { motion, useInView } from "framer-motion";
 import { CiLinkedin } from "react-icons/ci";
 import { FaCode } from "react-icons/fa6";
 

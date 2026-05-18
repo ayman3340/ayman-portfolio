@@ -14,7 +14,7 @@ export const CertificationsData = [
     hours: 120,
     "Issued by": "Zero to Mastery",
     Link: "https://drive.google.com/file/d/1bBOYoCNZqW1M1dxUOzxH566QKnZutf_E/view?usp=sharing",
-    logo: "/ztm.png",
+    logo: "ztm.png",
 
     id: nanoid(),
   },
@@ -32,7 +32,7 @@ export const CertificationsData = [
     hours: 34,
     "Issued by": "Scrimba",
     Link: "https://www.coursera.org/account/accomplishments/certificate/NAEJUMQ5L95I",
-    logo: "/scrimpa.png",
+    logo: "scrimpa.png",
 
     id: nanoid(),
   },
@@ -41,7 +41,7 @@ export const CertificationsData = [
     hours: 120,
     "Issued by": "SAFCSP",
     Link: "https://drive.google.com/file/d/1ywHe4qEdyY8SixCYMBJ8SDVabcCRXs4i/view?usp=sharing",
-    logo: "/SAFCSP.png",
+    logo: "SAFCSP.png",
 
     id: nanoid(),
   },
@@ -50,7 +50,7 @@ export const CertificationsData = [
     hours: 300,
     "Issued by": "Freecodecamp",
     Link: "https://www.freecodecamp.org/certification/ayman3340/responsive-web-design",
-    logo: "/freecode.png",
+    logo: "freecode.png",
 
     id: nanoid(),
   },
@@ -59,7 +59,7 @@ export const CertificationsData = [
     hours: 12,
     "Issued by": "Zero to Mastery",
     Link: "https://drive.google.com/file/d/1a1mqJMEQNgimoN4zpMe2w_HhYbSf-kOa/view?usp=sharing",
-    logo: "/ztm.png",
+    logo: "ztm.png",
 
     id: nanoid(),
   },
@@ -98,7 +98,7 @@ export const Project = [
       "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
     Course: "Coursera",
     Link: "https://ayman3340.github.io/MovieProject/#/",
-    Img: "/Movie/1.png",
+    Img: "Movie/1.png",
     Id: 0,
   },
   {
@@ -116,7 +116,7 @@ export const Project = [
       "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
     Course: "Coursera",
     Link: "https://ayman3340.github.io/Wether-App/",
-    Img: "/weather/1.png",
+    Img: "weather/1.png",
     Id: 2,
   },
   {
