@@ -92,77 +92,62 @@ export const CertificationsData = [
 ];
 
 export const Project = [
+
   {
-    Name: "MovieProject",
-    Desorption:
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
-    Link: "https://ayman3340.github.io/MovieProject/#/",
-    Img: "Movie/1.png",
+    Name: "Drag Website",
+    Desorption:"drugsProject",
+    Course: "drugsProject",
+    Link: "https://ayman3340.github.io/drugsProject/",
+    Img: "drugsProject/1.png",
     Id: 0,
   },
-  {
+    {
+    Name: "Ecommerce",
+    Desorption:'Ecommerce',
+    Link: "https://ecommerce-ffb80.web.app/",
+    Img: "Ecommerce/1.png",
+    Id: 1,
+  },
+    {
     Name: "Dashboard",
     Desorption:
       "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
-    Link: "https://www.coursera.org",
-    Img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
-    Id: 1,
+    Link: "https://ayman3340.github.io/Dashboard/",
+    Img: "Dashboard/1.png",
+    Id: 2,
   },
   {
     Name: "weather",
     Desorption:
       "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
     Link: "https://ayman3340.github.io/Wether-App/",
     Img: "weather/1.png",
-    Id: 2,
-  },
-  {
-    Name: "Ritvik Project",
-    Desorption:
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Web Design for Everybody Specialization",
-
-    Link: "https://www.coursera.org",
-    Img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
     Id: 3,
   },
   {
-    Name: "prayers-timings",
-    Desorption:
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
-    Link: "https://www.coursera.org",
-    Img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
+    Name: "Prayers Timings",
+    Desorption:    "prayers" ,
+    Link: "https://ayman3340.github.io/prayers-timings/",
+    Img: "prayers/1.png",
     Id: 4,
   },
+
   {
     Name: "VanLife",
-    Desorption:
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
-    Link: "https://www.coursera.org",
-    Img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
+    Desorption:'VanLife',
+    Link: "https://ayman3340.github.io/scrimpProjcet/",
+    Img: "VanLife/1.png",
     Id: 5,
   },
-  {
-    Name: "Drag Website",
-    Desorption:
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
-    Link: "https://www.coursera.org",
-    Img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
-    Id: 6,
-  },
+
   {
     Name: "Todo",
-    Desorption:
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
-    Course: "Coursera",
-    Link: "https://www.coursera.org",
-    Img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
-    Id: 7,
+    Desorption:'todo',
+    Link: "https://ayman3340.github.io/todo-postgres/",
+    Img: "todo/1.png",
+    Id: 6,
   },
+
+
+
 ];

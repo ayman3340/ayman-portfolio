@@ -17,10 +17,10 @@ function Contact() {
 
   return (
     // Main Container: Flex-col for mobile, Flex-row for desktop (md:flex-row)
-    <div className="flex flex-col md:flex-row min-h-screen text-white bg-stone-900 overflow-hidden" id="Contact">
+    <div className="flex flex-col justify-center md:flex-row min-h-screen text-white bg-linear-to-r from-stone-800 to-stone  overflow-hidden" id="Contact">
       
       {/* Left Section: Form */}
-      <div className="w-full md:w-1/2 flex flex-col justify-center items-center bg-gradient-to-r from-stone-800 to-stone-900 p-8">
+      <div className="w-full md:w-1/2 flex flex-col justify-center items-center -900 p-8">
         <form
           onSubmit={handleSubmit(onSubmit)}
           className="flex flex-col w-full max-w-md"
@@ -115,8 +115,8 @@ function Contact() {
 
       {/* Right Section: Image */}
       <div
-        className="w-full md:w-1/2 h-64 md:h-auto bg-cover bg-center bg-no-repeat hidden"
-        style={{ backgroundImage: "url('src/assets/contact.png')" }}
+        className="hidden lg:block  w-full md:w-1/2 h-64 md:h-auto bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: "url('contact.png')" }}
       >
         {/* The image is now a background image that covers the area */}
       </div>
