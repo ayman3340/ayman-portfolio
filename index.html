@@ -5,13 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- تحميل الخطوط بشكل غير متزامن لمنع تعطيل الرندر -->
     <link
+      rel="preload"
+      as="style"
       href="https://fonts.googleapis.com/css2?family=Cairo:wght@400..900&family=Orbitron:wght@400..900&display=swap"
-      rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400..900&family=Orbitron:wght@400..900&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Cairo:wght@400..900&family=Orbitron:wght@400..900&display=swap"
+      />
+    </noscript>
+    <!-- Preload the Hero Video Poster to drastically improve Largest Contentful Paint (LCP) -->
+    <link rel="preload" as="image" href="/hero-poster.jpg" fetchpriority="high" />
     <title>Ayman-portfolio</title>
-    <script type="module" crossorigin src="/ayman-portfolio/assets/index-DI3811DG.js"></script>
-    <link rel="stylesheet" crossorigin href="/ayman-portfolio/assets/index-BWnbPzkO.css">
+    <script type="module" crossorigin src="/ayman-portfolio/assets/index-Cd0g3pMa.js"></script>
+    <link rel="stylesheet" crossorigin href="/ayman-portfolio/assets/index-BCjHrNTd.css">
   </head>
   <body>
     <div id="root"></div>
